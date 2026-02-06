@@ -226,7 +226,7 @@ Academic and research use only.
 Stevens Institute of Technology
 
 [GitHub](https://github.com/Althafsyed1)  
-[LinkedIn](https://linkedin.com/in/yourprofile)
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammad-althaf-syed/))
 
 ---
 
